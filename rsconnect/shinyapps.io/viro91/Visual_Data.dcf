@@ -1,0 +1,12 @@
+name: Visual_Data
+title: Visual_Data
+username:
+account: viro91
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1016400
+bundleId: 2210864
+url: https://viro91.shinyapps.io/Visual_Data/
+when: 1562596657.35302
+asMultiple: FALSE
+asStatic: FALSE
